@@ -1,0 +1,48 @@
+{
+    "customer": {
+        "customer_id": "rr@rr.com"
+    },
+    "items":
+        [
+            {
+                "id": 3,
+                "quantity": 3
+            },
+            {
+                "id": 2,
+                "quantity": 4
+            }
+        ],
+    "address": {
+            
+                "address1": "12 Jones St",
+            
+            
+                "address2": "Apt 56",
+            
+                "city": "Salem",
+            
+                "state_name": "NC",
+            
+                "zipcode": 27642
+           
+        },
+    "payment": {
+
+                "payment_method": "credit card",
+
+                "address1": "12 Jones St",
+            
+            
+                "address2": "Apt 56",
+            
+                "city": "Salem",
+            
+                "state_name": "NC",
+            
+                "zipcode": 27642
+           
+        },
+    "shipping_method":"delivery",
+    "order_status":"accepted"
+}
