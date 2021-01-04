@@ -1,0 +1,48 @@
+{
+    "customer": {
+        "customer_id": "mm@mm.com"
+    },
+    "items":
+        [
+            {
+                "id": 3,
+                "quantity": 5
+            },
+            {
+                "id": 2,
+                "quantity": 4
+            }
+        ],
+    "address": {
+            
+                "address1": "152 Ralph St",
+            
+            
+                "address2": "Apt 36",
+            
+                "city": "Morrisville",
+            
+                "state_name": "NC",
+            
+                "zipcode": 27649
+           
+        },
+    "payment": {
+
+                "payment_method": "credit card",
+
+                "address1": "152 Ralph St",
+            
+            
+                "address2": "Apt 36",
+            
+                "city": "Morrisville",
+            
+                "state_name": "NC",
+            
+                "zipcode": 27649
+           
+        },
+    "shipping_method":"delivery",
+    "order_status":"accepted"
+}
