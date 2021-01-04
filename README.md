@@ -5,6 +5,7 @@ Used Java8, Spring Boot, Spring Data JPA, PostgreSQL, Swagger.
 
 The application has the following endpoints:
 http://localhost:8080/swagger-ui/#/ : To access swagger documentation of the endpoints
+
 http://localhost:8080/order: GET Request - Shows all orders
 http://localhost:8080/order/id: GET Request - Shows order with order number 'id'
 http://localhost:8080/order: POST Request - Create an order
