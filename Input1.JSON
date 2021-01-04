@@ -1,0 +1,48 @@
+{
+    "customer": {
+        "customer_id": "mm@mm.com"
+    },
+    "items":
+        [
+            {
+                "id": 1,
+                "quantity": 2
+            },
+            {
+                "id": 2,
+                "quantity": 4
+            }
+        ],
+    "address": {
+            
+                "address1": "1552 Jane St",
+            
+            
+                "address2": "Apt 3156",
+            
+                "city": "Duluth",
+            
+                "state_name": "NC",
+            
+                "zipcode": 27645
+           
+        },
+    "payment": {
+
+                "payment_method": "credit card",
+
+                "address1": "1552 Jane St",
+            
+            
+                "address2": "Apt 3156",
+            
+                "city": "Duluth",
+            
+                "state_name": "NC",
+            
+                "zipcode": 27645
+           
+        },
+    "shipping_method":"curbside pickup",
+    "order_status":"accepted"
+}
