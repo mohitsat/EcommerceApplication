@@ -1,7 +1,7 @@
 # EcommerceApplication
 E-commerce Application
 
-Used Java8, Spring Boot, Spring Data JPA, PostgreSQL, Swagger.
+Used Java8, Spring Boot, Spring Data JPA, PostgreSQL, REST API, Swagger.
 
 The application has the following endpoints:
 
@@ -29,13 +29,15 @@ http://localhost:8080/pricing/id: GET Request - Shows pricing details of order w
 
 http://localhost:8080/shutdown: GET Request - Initiate app shutdown(Required, otherwise process remains open at localhost port)
 
-The application initially only has some basic inventory data and customers data filled. You will need to create orders before testing the endpoints. 
+The application database initially only has some basic inventory data and customers data filled. You will need to create orders before testing the endpoints. 
 
-I hae provided some input JSON files, which will create orders through http://localhost:8080/order: POST Request. After that, different endpoints can be tried out completely.
+I have provided some input JSON files(Input1.json, Input2.json, ... on this page), which will create orders through http://localhost:8080/order: POST Request. After that, different endpoints can be tried out completely.
 
 Please configure database in postgresql/src/main/resources/application.properties file to run on local machine. I currently have my local db configured. 
 
-I have also provided a Jar file which can be used to execute the application. This can be found in JAR folder. 
+I have also provided a Jar file which can be used to execute the application on this page named postgresql-0.0.1-SNAPSHOT on this page. 
+
+I would love to explain everything about the application after you review it. This was a great exercise and much more fucntionality can be added to the application. 
 
 Thanks!
 
