@@ -19,9 +19,9 @@ http://localhost:8080/shipping: GET Request - Shows shipping details of all orde
 
 http://localhost:8080/shipping/id: GET Request - Shows shipping details of order with order number 'id'
 
-http://localhost:8080/payment: GET Request - Shows payment details of all orders
+http://localhost:8080/payments: GET Request - Shows payment details of all orders
 
-http://localhost:8080/payment/id: GET Request - Shows payment details of order with order number 'id'
+http://localhost:8080/payments/id: GET Request - Shows payment details of order with order number 'id'
 
 http://localhost:8080/pricing: GET Request - Shows pricing details of all orders
 
