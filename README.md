@@ -27,6 +27,10 @@ http://localhost:8080/pricing: GET Request - Shows pricing details of all orders
 
 http://localhost:8080/pricing/id: GET Request - Shows pricing details of order with order number 'id'
 
+http://localhost:8080/inventory: GET Request - Shows inventory details of all orders
+
+http://localhost:8080/inventory/id: GET Request - Shows inventory details of order with order number 'id'
+
 http://localhost:8080/shutdown: GET Request - Initiate app shutdown(Required, otherwise process remains open at localhost port)
 
 The application database initially only has some basic inventory data and customers data filled. You will need to create orders before testing the endpoints. 
