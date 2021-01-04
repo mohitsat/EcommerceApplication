@@ -37,7 +37,7 @@ Please configure database in postgresql/src/main/resources/application.propertie
 
 I have also provided a Jar file which can be used to execute the application on this page named postgresql-0.0.1-SNAPSHOT on this page. 
 
-I would love to explain everything about the application after you review it. This was a great exercise and much more fucntionality can be added to the application. 
+I would love to explain everything about the application after you review it. This was a great exercise and much more functionality can be added to the application. 
 
 Thanks!
 
