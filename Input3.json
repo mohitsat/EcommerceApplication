@@ -1,0 +1,48 @@
+{
+    "customer": {
+        "customer_id": "mm@mm.com"
+    },
+    "items":
+        [
+            {
+                "id": 1,
+                "quantity": 2
+            },
+            {
+                "id": 3,
+                "quantity": 4
+            }
+        ],
+    "address": {
+            
+                "address1": "221 Baker St",
+            
+            
+                "address2": "Apt 31",
+            
+                "city": "Cary",
+            
+                "state_name": "NC",
+            
+                "zipcode": 27640
+           
+        },
+    "payment": {
+
+                "payment_method": "credit card",
+
+                "address1": "221 Baker St",
+            
+            
+                "address2": "Apt 31",
+            
+                "city": "Cary",
+            
+                "state_name": "NC",
+            
+                "zipcode": 27640
+           
+        },
+    "shipping_method":"delivery",
+    "order_status":"accepted"
+}
